@@ -9585,43 +9585,6 @@ an open sourse 74 gate computer</string>
       <pos x="-5940" y="580"/>
     </visualElement>
     <visualElement>
-      <elementName>Text</elementName>
-      <elementAttributes>
-        <entry>
-          <string>Description</string>
-          <string>NON
-AMR 
-BHLD 0xff
-MLD
-STR 201
-CLD
-CLC
-CAI
-NF
-UO
-ACP
-ACP
-ACP
-ACP
-ACP
-ACP
-ACP
-ACP
-ACP
-ACP
-ACP 
-ACP
-ACP 
-ACP
-ACP
-ACP
-CAI
-AOO</string>
-        </entry>
-      </elementAttributes>
-      <pos x="5080" y="-1920"/>
-    </visualElement>
-    <visualElement>
       <elementName>And</elementName>
       <elementAttributes/>
       <pos x="-6200" y="-140"/>
